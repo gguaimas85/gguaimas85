@@ -6,7 +6,7 @@ Soy una apasionado de la tecnologia 🖥
 
 Despues de varios años en rubro logistica y distribucion me decidi adentrarme en el mundo de la tecnologia, el cual me atrapo totalmente. 🦾
 
-Tengo conocimientos en Javascript, Redux, React, Express y Postgresql.
+Tengo conocimientos en Javascript, Redux, React, Express y Postgresql, obtenido en SoyHenry.
 <!--
 **gguaimas85/gguaimas85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
