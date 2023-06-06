@@ -1,10 +1,10 @@
-Hola, Soy Gustavo Guaimas!!
+###Hola, Soy Gustavo Guaimas!!
 
 Bienvenido a mi repositorio🧳
 
 Soy una apasionado de la tecnologia 🖥
 
-Despues de varios años en rubro logistica y distribucion me decidi adentrarme en el mundo de la tecnologia, el cual me atrapo totalmente. 🦾
+Despues de varios años me decidi adentrarme en el mundo de la tecnologia, el cual me atrapo totalmente. 🦾
 
 Tengo conocimientos en Javascript, Redux, React, Express y Postgresql, obtenido en SoyHenry.
 <!--
