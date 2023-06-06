@@ -1,23 +1,20 @@
-###Hola, Soy Gustavo Guaimas!!
+# Hola, Soy Gustavo Guaimas!!
 
-Bienvenido a mi repositorio🧳
+Bienvenido a mi repo🧳
 
-Soy una apasionado de la tecnologia 🖥
+Aquí mostrare mis nuevos avances y tecnologías aprendidas 🖥
 
-Despues de varios años me decidi adentrarme en el mundo de la tecnologia, el cual me atrapo totalmente. 🦾
+## Acerca de mi
 
-Tengo conocimientos en Javascript, Redux, React, Express y Postgresql, obtenido en SoyHenry.
-<!--
-**gguaimas85/gguaimas85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Curioso de la tecnologia, despues de muchos años de dudar me decidi adentrarme en el rubro IT. 🦾
+ 
+### Mis conocimientos
 
-Here are some ideas to get you started:
+Tengo conocimientos en Javascript, Redux, React, Express y Postgresql, obtenidos en SoyHenry.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Contactemos
+
+https://www.linkedin.com/in/gustavoguaimas/
+
+gguaimas85@gmail.com
