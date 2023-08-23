@@ -2,12 +2,11 @@
 
 Bienvenido a mi repo🧳
 
-Aquí mostrare mis nuevos avances y tecnologías aprendidas 🖥 💻
+Aquí mostrare mis nuevos proyectos y avances. 🖥 💻
 
 ## Acerca de mi
 
-Curioso de la tecnologia y apasionado de la programación. 
-Despues de muchos años de dudar me decidi a tomar la pildora roja 😎 y adentrarme en el mundo IT. 🦾
+Curioso y apasionado de la programación. Aprendiendo constantemente nuevas tecnologias.
  
  
 ### Mis conocimientos
